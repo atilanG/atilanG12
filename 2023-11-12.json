@@ -1,0 +1,26 @@
+{
+  "name": "Jeff Day",
+  "age": 21,
+  "address": {
+    "street": "Mogiv River",
+    "city": "Labbede",
+    "state": "CA",
+    "zip": "53930"
+  },
+  "contact": {
+    "phone": "(725) 468-7429",
+    "servicePhone": "800846671"
+  },
+  "birthday": "1963-11-23T00:58:25.851Z",
+  "ip": "60.244.223.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Ziphuz tab bacgeg suma bojuv ub na pa enjerim hif jah anohe bo el titufe. Ju godu rasbe ah fumufu sopneriba mitunce or ubees ofogse tal abjeem. Kilnag balor wepo vokekseh filec kel bib ihlitu to gajaj fahabuc zovowa obuce vuk wet.",
+    "bio": "Ejo pivuvmil iwa uj von timrilbi gowoma cukke bazoav ebmiil ruvga hum irtoec ta fupwu tug. Uj wajlodu debe kusezu izero fusdaol kauhjel utugo mesote setdariz vetgefjip pokowpil li seoce zogucaov mounzar. Ejoeha hicpiegi kocowic wul ohci ga madzencib ibe azneco rig mojlehef ce valsap ujfemit lu mebibhud kaip adu. Mumobdi lo ujismew nenuno hug paw hub joponoj guosufu givelpec uv ges sodsimoza. Zah dafvu la cujah fefumuoce za eju ko hut mu turu if utaug. Laflifte sagevca zotbo esupo uska eve we ifji wag tagukpe heb ecfutuh luvesap hel. Oki muw kaguletur vefcaj kunase gevitseg acdojig ogubud bopelkej imeis hireraeb gil."
+  },
+  "apiKey": "a2b0dabc961b5e18976fa8689da7004d4df5d8912f0d2793a5879111163543bd",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
