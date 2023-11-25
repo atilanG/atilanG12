@@ -1,0 +1,26 @@
+{
+  "name": "Maggie Benson",
+  "age": 65,
+  "address": {
+    "street": "Pudu Turnpike",
+    "city": "Taghukoj",
+    "state": "OK",
+    "zip": "17861"
+  },
+  "contact": {
+    "phone": "(548) 994-9272",
+    "servicePhone": "800264932"
+  },
+  "birthday": "1965-03-10T03:23:44.610Z",
+  "ip": "127.39.190.184",
+  "foo": "bar",
+  "profile": {
+    "about": "Emi milurwaf caf pofewomu bevof dokput lieve gir geho konci lufat zediow vac. Zom conu pomat jiigo farigajaf lomahiew nozed jomijar kiror zisimfe vahhe homu kanni samas bahzo dafozi puh un. Fej cag zif nelelesaj vabefi zikasoz ba osu wo ifinuup oca kogif gip nud cu zelvo mofda karlioja. Hegi wav mus zihedaj ru naubi fe fobfo ra nak jus koljoge suibu am kovmil wu neko tebes. Afcu cotigniv razapnu hoj vaka perdem udabesub fu ubjuf wasrik norpu aku.",
+    "bio": "Jaawu cib mivboutu techi dedi etlinvez ek popro huvetbij tuhzom uzu tad pagac ujjitvo hoclawu uw locsawwe. Edasuproh dotevizud duzgap tosun mo luj vudo enatefor wugi velus wu vigivni ti ho to jegukub huwivod kohfubufi. Fegon itje fotde vebah utevagkim bemlemjo vumvijtu je goczi ledohpa boesa tirte ufuloc de wubembor vut aru hamuvobo."
+  },
+  "apiKey": "891c8cc47d0ad750468f1530726938d4d91d60e67fdc482c0f42da8f20ff2fde",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
