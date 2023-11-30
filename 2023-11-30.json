@@ -1,0 +1,26 @@
+{
+  "name": "Tom Cruz",
+  "age": 43,
+  "address": {
+    "street": "Owsow River",
+    "city": "Kimivwul",
+    "state": "MN",
+    "zip": "49533"
+  },
+  "contact": {
+    "phone": "(208) 858-4675",
+    "servicePhone": "800648727"
+  },
+  "birthday": "2006-09-17T05:25:55.566Z",
+  "ip": "110.10.145.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Taip akvegez ka gicuh hes cizmohil woijuzo od enuv uda wem febwetde. Uvnumu deka bisbattib kesjer hoikdo hekufwo es wokoruc ubi zirmidjoj ub repuli. Pek bajop fac ud saggefek uz zakedoh nonvik refekbo iw ben fanzi mi jegi bon dijizo og. Simvop fikim gaariwid lo fijlacib lubur razne zacdu sem kuwcu uh lufpa inasi. Mawfibasa sasu akeegaoli lumpo jo lal buh cidu alsawwo sa za sazal jatubva zahrapfe hujoca ajofinjas zikem. Reh ewoopesu es zeladiba tec doveddut junileoke neor wotjegis daiduewe wo pudtavna ram saw.",
+    "bio": "Uju go gikganic votaw hukdovkon anhocah ze uh ko fok taejoifi nufta tafi luv li. Fisur he cokcu ka ki mettugek pemlebhu ani vavusbed mofaf cusguwak cun. Roj ogrigenu tiduzez temuhuk ogwidzi lajuep hej kasud edu ne ajiignod uk umotebu vi jascu siwag huca. Likad hikisonu gelocer uhauz if botlujwa el zelacoto kagbiw caow bigwu ojigto vimseva rilekuh."
+  },
+  "apiKey": "959af569fc21c3e6ebcb8462d6eb73b1d38698dcc387de46f796e5b45cc860dd",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
