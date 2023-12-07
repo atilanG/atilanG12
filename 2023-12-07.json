@@ -1,0 +1,26 @@
+{
+  "name": "Susan Vargas",
+  "age": 20,
+  "address": {
+    "street": "Kuon Trail",
+    "city": "Todzucas",
+    "state": "NC",
+    "zip": "57077"
+  },
+  "contact": {
+    "phone": "(854) 634-8861",
+    "servicePhone": "800484889"
+  },
+  "birthday": "1968-05-31T12:47:14.601Z",
+  "ip": "148.2.43.131",
+  "foo": "bar",
+  "profile": {
+    "about": "La dagus ran en guwe junvem hewjom ci epacesu jahrop ej ufahbut egovacu bebomu icbolduj edabekih. Kiuwu zuttim fuz ig kiso saeki gahedima rerwe mupikzi sehgor pejwud puneuf dovmaw remsuma. Ro ta ro he ba popanedo ilazate adenu her om vukuz tutuh tiweti igowuj zoad mokufet neak lemuhme. Wos daje it lur hetlaz pevvel jud aw hun jinugme zuvodged bef kabtupsom. Otzojo lafmo puw afko oji suime hib karpeh lugi delki dazeviemu bamufi delhi suv venhom pelav. Tokipkej lalo kavpoh fuwi icami ujanu udra doz pucem uz na haeb bete weduf voogpeb la tevtegaw luep. Petafke muwo ewomo iril hohpa azuki fanva rarbo usfi dazuziv kogod kuvhi zi zubdenfa.",
+    "bio": "Zu tafo nozhurwo robimi an ipge av how zubkefovu lomal lociiva neh anbavjuh ci. Kuos gida bo uzca mikem en kufodzuj ug zos sot nas uziiwo ceseda. Ofjepra norcazuh za ozlitguk bolorpom redursub egdabofe azegusu cagi nuwji gaper ubfa zo aj."
+  },
+  "apiKey": "aed30a0a18e86c089265e5bac5bca363861e157b61cc83512fff0f47044d5897",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
