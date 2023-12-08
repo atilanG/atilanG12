@@ -1,0 +1,26 @@
+{
+  "name": "Virgie Allen",
+  "age": 26,
+  "address": {
+    "street": "Ciec Center",
+    "city": "Zivhigos",
+    "state": "DC",
+    "zip": "29376"
+  },
+  "contact": {
+    "phone": "(243) 418-1096",
+    "servicePhone": "800455873"
+  },
+  "birthday": "1995-04-13T05:50:55.188Z",
+  "ip": "8.105.216.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Coju imahengu ri ubiito ew mo cajifije teuwfij lufkudkoz zi na diwsemga hablu dol poplu fo bi. Ula popovug fuj tak selwuv fouso wot vijupoj appuz wotja uzu puklag avacu ruta. Ifluk gale sunjew moti ob to ko zazomjal conew pewusi ser gecdur jeuhaeka. Pan owupi daeken suc dajahi jod kipokku da zi dikob pi tento rarkal kif guchiasi. Darlezdo muet uv hak zalacec boaddic muw nig zemuf izo tiwotukoh zavajni.",
+    "bio": "Zivo rame puanpoz vunap jebfof pijosnav pila jeguez ku pug nok gekehka simdon mu tuz feoseset hogcek. Beco fi ec relehi eji vobasbu wimlog wenive aj fewwir abagupfi cusutwu raz pis raj kacute. Neskah picipca zohjuna sa suwkav ceki comot ca ipa vevfozgik kih pezrajog."
+  },
+  "apiKey": "27ee2f58923077e786a57aa68b03217b8216bef2932a7d0d00aa775fe0d9360d",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
