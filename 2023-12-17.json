@@ -1,0 +1,26 @@
+{
+  "name": "Thomas Walters",
+  "age": 57,
+  "address": {
+    "street": "Kuni Grove",
+    "city": "Atunarak",
+    "state": "LA",
+    "zip": "11647"
+  },
+  "contact": {
+    "phone": "(504) 882-9597",
+    "servicePhone": "800779786"
+  },
+  "birthday": "1961-07-19T05:06:52.233Z",
+  "ip": "26.209.48.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Sitoja jolere searurat voh rovezi zojaor nuibwab zacki norerpih elocuhes pocel mudholo kijvo. Ihbuggah vahe dajzel vitehi ke zaegu jowca baehgu veru mokimoj pev lum raw. Pirip amwo zale nopgalur wo ninwibbi onoowan lu bogel utni pa cagtejo. Ceziwhi soirineg lo uwaewu zekuh efdan ci til bo muufdid dugfiblo tedhunok rec bim ekidu pirutki no fusosa.",
+    "bio": "We siufboz big nermeip hip pidil ge haga juw faizu rudisib uhe mo but mewrozle om zojenub. Tubulazut pole neza diekabu obvo ec pe pojer henze azeha kehafusu honakso wofotze wudaiz ku wedjur. Ca du wotwacla jij zudcage bajhok leovo kor ucvovu giri nak mi da wov. Gijzu cejmow ije ikowu mimun vilo fohvohen hap es otsogi ogsifiw ra."
+  },
+  "apiKey": "f7d50b0a7c23e7fe48897edbe8bd57090d4aea569bfd2a9c123c805fc564a5e3",
+  "currency": {
+    "code": "ALL",
+    "name": "Albania Lek"
+  }
+}
