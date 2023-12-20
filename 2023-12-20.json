@@ -1,0 +1,26 @@
+{
+  "name": "Mable Singleton",
+  "age": 19,
+  "address": {
+    "street": "Caljo Path",
+    "city": "Piwafib",
+    "state": "NC",
+    "zip": "68900"
+  },
+  "contact": {
+    "phone": "(381) 717-6379",
+    "servicePhone": "800283671"
+  },
+  "birthday": "1996-05-14T21:13:55.118Z",
+  "ip": "129.4.93.99",
+  "foo": "bar",
+  "profile": {
+    "about": "Med sugudguk luse vo ta vewzun jirali cu ve wil vazugloh fag vez pajgetta odkad. Mawwerav wasi ne ug la ruffepup fut umaocwi vitjofop tar uz pelsiotu se wuner. Ohovop it foj elilog ga usopidelo mawipa rofwinig nij ivo sogvalid nomris rini tokhupfo jepoz apkapo run.",
+    "bio": "Futdo hu diknaje jev du icenicgil zaure bo ah milemleh onopafut goj. Puul uz bilgafib inapu jefjec cikuzzu miclihto nowlan ceshujak beuvza pusakiso pofkorop mazja. Jec fehpisa pa egeeg gilame banigpe ma vabnuwak zobi gutwo va gedmuc afe pup wijuk. Mu mujaca tuwnap irguz tuwaljah pujusgo vaksocgul ugsustam dodahan baduv gov fuj hojebe uzu ut dakmistip canso az. Pucu lopsem paznel nuv dib ujco ka ogol fugojcum fo vo reb topa rednegkip. To paozo josno bul sinza go haw hefopjac odone kajsuw tev cuf uluop fevwurfow buvupe."
+  },
+  "apiKey": "2b9e21d58293f12d30d65b44f98e0ecbd8a2d0bb2a15d038441b57c955f1cac6",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
