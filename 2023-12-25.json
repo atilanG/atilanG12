@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Jordan",
+  "age": 50,
+  "address": {
+    "street": "Owon Drive",
+    "city": "Tinolo",
+    "state": "UT",
+    "zip": "48021"
+  },
+  "contact": {
+    "phone": "(446) 204-2397",
+    "servicePhone": "800785221"
+  },
+  "birthday": "1996-08-09T17:28:09.159Z",
+  "ip": "226.155.138.145",
+  "foo": "bar",
+  "profile": {
+    "about": "Mukfuvac taogoto upaulka cufkunu eja vom gono zilkoda eb medab muhibi sepjoake no fuko ekwouma acuta dele polimar. Eh havka guwdura pefgusri hekofju muale ga adoufnug depfusru fafihmap patlo henitig dagmag ebi. Tupsapef kivej co jed zo halubpeg jiedu fikov ope banfoj modus jev cofve lopdonwe kiozonoj izfozuv ro. Lezeb loppu eci suflabwo leghi tok duf bo obuage ewawe zikco jamtuwcu du icnawan gocmo ewem. Ob tipumu fozmiuga ajiges tobpuf tasivi zewelho pu bihugre ovema ivopaezu cimec po ra ewarvu zippac suk. Pozkeb sez zaguta mugca zoj lo sehbupe kewtimmir va pej bisidos ubodres va he weh potkavoz re.",
+    "bio": "Imjuz rilrad pi avefe sof veru ufnov odaju somsatki ketna ruwahur lushu musupked ipiiwci muubik. Ci olkaplu konu je poppumru re kupam zip hiso licicbuf favovuij saf ja. Jedvete wi jabnos lemi jejedoje he tahebi ek emu gufuzaw pius ofudaf wubwodet usuer wuitjaf selfu owafuf."
+  },
+  "apiKey": "7bb0760a3f472c5a0f19614f9728e8f19a0f4060eea979227955a4bb1ffdb357",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
