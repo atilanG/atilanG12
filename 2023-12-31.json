@@ -1,0 +1,26 @@
+{
+  "name": "Anthony Kelley",
+  "age": 50,
+  "address": {
+    "street": "Ligip Key",
+    "city": "Ticvuuj",
+    "state": "PA",
+    "zip": "84994"
+  },
+  "contact": {
+    "phone": "(715) 857-5687",
+    "servicePhone": "800457914"
+  },
+  "birthday": "1992-04-18T19:08:54.678Z",
+  "ip": "182.132.180.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Bajejof rero erepi juvlalvus ge bobu nen huhcu pi go cu avomovro. Pufadmo eno uso wow akenugpa firo ocojevak zuci uwto vuwambo buc li. Il mutzed us turmori horajba lureva da po hananteb usu falvum upihaju eroav iwu fujaju zolgokafu ciwo fejhog.",
+    "bio": "Fogsi deek hedar odnegal uto ifoeziud gufcu empodka ew sictilnuf fogibato no hikguw lufigwu. Wot vokdibute heppimrur ra zozhu ow hodocjiz jejmodoji fulmoseh haigoguv evi rufefjog degsertid ajaufi wiuz wi vibroja. Zoij ad rogomcif vaji iro jikduf geunehug op vedsuh ci hueteuk jedrom ro da mecoru juwazto hafliwek vuk. Lom fe pakaj pucwez ofukiudo muetnag zin la woteh umozanow ce aso bidfo. Osienah nuhpukdep eruri dezeje go nosuin pokojud ariurehe etume gej zar redot kal akaja aja mu. Ajlug pej law isogam jok pac jeew baki ci ohkaf pi nuhil mipci avjem zura jelrut guwjuvus wiiziwe."
+  },
+  "apiKey": "b6fe452adc2aadf61d7295ba917339976190dfd38c3fb1a602d9bd2714e00783",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
