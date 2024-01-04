@@ -1,0 +1,26 @@
+{
+  "name": "Annie Erickson",
+  "age": 56,
+  "address": {
+    "street": "Udejo Avenue",
+    "city": "Pibuhmu",
+    "state": "AR",
+    "zip": "59961"
+  },
+  "contact": {
+    "phone": "(312) 317-3901",
+    "servicePhone": "800654539"
+  },
+  "birthday": "1959-03-02T06:59:29.795Z",
+  "ip": "43.142.40.184",
+  "foo": "bar",
+  "profile": {
+    "about": "Ro ga ru ligisiri umi pijjup kobusa zi sino atul peraje gicgitduh ciumfig. Rueptif taj ki so mauje nuv bom gianet vifuzri kedeszut elubo otiiz ciwe wemvegru op ujiosuije mazogpag. Ena puhduve ran zeticoz sem olbali gusiklid tebgezcut ba ja gav ake mizuro.",
+    "bio": "Veded wetpa uwpud ogdub unfamzet tid tir zisinre guipcel odfodug sejum vec maveka ej. Uzhig si cu wid ji zugfec vetow uwina magejip zev kak awufu begka egupasad mer vo. Nikaduk ceve etijap owwanem tossaow awizibon oraf ki ros cejaba kuza ato giv. Amfuli zi cemik mutpatis ovizi fadtosare vaktamu itakaza kejsilhif marozti potneevi ufki nijhiaz civarad ecli ahvotpan."
+  },
+  "apiKey": "99307e3a2a062d0d0c257351ff42a5572cfc943e9b930cee0f5b7945fb4383bb",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
