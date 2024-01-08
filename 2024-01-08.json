@@ -1,0 +1,26 @@
+{
+  "name": "Abbie McGee",
+  "age": 41,
+  "address": {
+    "street": "Huco Parkway",
+    "city": "Fopfieve",
+    "state": "KS",
+    "zip": "08107"
+  },
+  "contact": {
+    "phone": "(980) 503-3682",
+    "servicePhone": "800391239"
+  },
+  "birthday": "2003-01-08T02:09:06.532Z",
+  "ip": "69.201.128.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Acki kesewu oduj mup tutzusih leworonoc lepfoina pulocut cu cev zowzageh farucati. Iptosbu ba gaf puk ihuru bisidso beepa etepan hog ocjoje rionaele vulo luonubo. Vazgi lu ba utrajec na obi luz vekse be fa koanubo awamuzef tep.",
+    "bio": "Af arkebje ahe pekpolte bajrapo pi momhuuk pawadi sohegan to adowive gapidkaz duba fu utpevoj limas. Gi be vanati kaser gog jep utwi doda gab gipovag eh elvubat vu megsahus zovi ig. Ha bivka jowi ucnu big in ov sug za lo fen muwub mukok. Sezjivip ejahamuv pebo le nugic gizi fuj joazida doci hin gob lallozoz ow mircaco agjuz."
+  },
+  "apiKey": "f3a4403c0cbbb9b6d67d2457abd56cb6765d1846a132ff774500d211e45d438a",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
