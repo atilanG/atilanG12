@@ -1,0 +1,26 @@
+{
+  "name": "Caleb Russell",
+  "age": 22,
+  "address": {
+    "street": "Natwat Path",
+    "city": "Puzfikhu",
+    "state": "TN",
+    "zip": "08851"
+  },
+  "contact": {
+    "phone": "(779) 963-9532",
+    "servicePhone": "800978147"
+  },
+  "birthday": "2001-04-30T08:37:49.760Z",
+  "ip": "123.23.99.116",
+  "foo": "bar",
+  "profile": {
+    "about": "Umgor fudog anzov maev piz reribdez ubonac lakol dehi te pikruva uz hedenal mohzo he ditjof huga aro. Maupaefa hef hiw go widura ujepimovi warenzal puc jimla hijtotar asogehe deune. Jenuw rezol dotanij ki zucven pi lag noeri kudnug tuzsofa cevizo leolacul dafu gek wiva zojjozra vuamu ema.",
+    "bio": "Naz melo veki eciwu iwogo somi zas ledwahol namigwih ruwmoc re te pu gias ul gihji bo mode. Nec ubewas lunu sij dan matzi agucaod zedciz dak us uti paajzam. Te ewpi nasic lo lupuzrol zin ret otudla ji wecheg caham nov gosolu fovukni garu. Damjemen obiobpem ocpu dofras ce terzi fuofo we uzacur efrib foji bugbo go tigzisho."
+  },
+  "apiKey": "165a18a1db3428767bb5693d3a4d97d822a3e4872947ad66c32bbb4fbad4c241",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
