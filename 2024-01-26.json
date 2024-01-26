@@ -1,0 +1,26 @@
+{
+  "name": "Larry Perez",
+  "age": 45,
+  "address": {
+    "street": "Tuvuj Plaza",
+    "city": "Widubog",
+    "state": "IL",
+    "zip": "54413"
+  },
+  "contact": {
+    "phone": "(486) 380-3776",
+    "servicePhone": "800265395"
+  },
+  "birthday": "1977-04-18T10:04:42.043Z",
+  "ip": "83.66.228.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Biti oluralja tuj hujuim duvotuj wu uveje jotevfo bocjef ewba uj foc se haguj hafi adegu coz bem. Gib fiso cep nora hirlebi omunasmod duce kolgot varil pan hu zuc moj re elitibvi. Vij ape hipped fuaze niti so pizwe inipawo hiza las jup gal lop fe dob. Beoleic so isi pohwuw oz ka tigebho zije pud owjip late rohkug tito fuvgup tufur horo.",
+    "bio": "Gafemre owiko hoam hujasil afutrul dupap mes jaj deko zilrig miv doleha nurvikowu. Pum ot nuwfa ragorog igu fen caz lij ehajuf nujmos sokugeni jaehebe. Miktevoz tiome beuvami ke zu ec wisjuzul nukeja uzow tevemba pific ga vuszob ramipidu romirki agazaawi."
+  },
+  "apiKey": "f43532bb5a37cae0c21d33569df3e844729998d2b46227b5b4eac2b333bc6b7b",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
