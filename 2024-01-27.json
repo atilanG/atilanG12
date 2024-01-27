@@ -1,0 +1,26 @@
+{
+  "name": "Mike Lyons",
+  "age": 52,
+  "address": {
+    "street": "Avmuz Street",
+    "city": "Matida",
+    "state": "TX",
+    "zip": "98509"
+  },
+  "contact": {
+    "phone": "(881) 755-1037",
+    "servicePhone": "800377921"
+  },
+  "birthday": "1981-07-13T04:04:38.666Z",
+  "ip": "77.239.69.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Sewne jo cawekrep fu vome civha ju efuzhog ikohu huuti mubufbeh ju pu tucnu voz ci ihiwavru. Wubpah vo kumejuz wale naicca bipwadob owu itdaj terce sumorvoh ne timfuz uttoddip selood voc. Maladiz setmobek comlu ufwa agveduwe leb oz aba buwma ebsi caknoggok fi pehzuzi jogu avice.",
+    "bio": "Egoceris ahven ijbiglih bizi puogevic leh pusu borhaw ca aljopog mik mis bocuwsa tunodu bitzevur awone cif. Hon fedtoof aheze kocafe kibuf awaad zivew mol tawocza zeotuce defba iciefcul tuc zacwutam tadofuk. Sazedac mi bum em movoraku fujdi muis rihiluoh zefkamuw afe hansavo tu mowfif ufu wahuvo."
+  },
+  "apiKey": "9e5e89a40c2ee7270ef8e0024fb851ea97e42aafe4007d5a0937d9db2a89cbd3",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
