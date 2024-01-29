@@ -1,0 +1,26 @@
+{
+  "name": "Clayton White",
+  "age": 64,
+  "address": {
+    "street": "Nitugo Glen",
+    "city": "Ekujauh",
+    "state": "KY",
+    "zip": "02617"
+  },
+  "contact": {
+    "phone": "(909) 245-1076",
+    "servicePhone": "800871794"
+  },
+  "birthday": "1964-10-01T17:20:36.527Z",
+  "ip": "193.87.48.215",
+  "foo": "bar",
+  "profile": {
+    "about": "Uwgab awibacet ov ukateva cudov luhmop udipaog du jezfituji gama vekol mig gonbuhoki tet. Emzogrij idcupe vaw buca fawwi lajuj usle zu ku govfugrej gowjami ho rowi. Wu roti jerazitur gir go cosamun bog lekjurno cejriduh zi hofezo vegmo.",
+    "bio": "Hiwkipik fahrefren ow gu vupobfuf awadidcet fivmog ninwec wuw fafu sat esketisa weh deusaza siazi ludageli mamekac. Zevoivo at ci cife tikwij nih dap ilapijeb edemimok wetwevi jufeg etikelo isiogimab gahic enduwi ba upip. Iroza gumezlo bocu weflugge iz ina pi nobgacu lena ivefelhe ulvijan nanif ba."
+  },
+  "apiKey": "861d777b2c142685fe127926933967caf346272b9f8ee15263e2b1c279f6d516",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
