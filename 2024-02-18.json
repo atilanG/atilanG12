@@ -1,0 +1,26 @@
+{
+  "name": "Callie Simon",
+  "age": 35,
+  "address": {
+    "street": "Bacaz Lane",
+    "city": "Fuwruwto",
+    "state": "WV",
+    "zip": "00165"
+  },
+  "contact": {
+    "phone": "(313) 327-2470",
+    "servicePhone": "800596364"
+  },
+  "birthday": "1963-07-21T17:12:18.164Z",
+  "ip": "62.72.159.179",
+  "foo": "bar",
+  "profile": {
+    "about": "Fefe muwfonono sopfupdah ri sogubdaf zu rurpa zofveoj eja piciftac zoliv cuco vidman. Nopuz joci nad wad ducag vu lortejcaf es limag uhitiw cembam vuafti. Falu ubmej tokelaz pu bucvuwob rugu wir kinujnag gubohnan jo kufe ozoza mojfeaku ohova hedte kow difavow bicihi.",
+    "bio": "Ewawensel ifegel natro am ralred nucu hiwefaw apmafnu fage pufmobuto zujlida uhopidzez foge ri zezattob ba. Ejnurom rilil de se hi voshir zegbafok lajeraz is afooda ephug gitkoguni eti azarege za isu nihif kipzuuk. Seuko firwubed kigen nuti oniigo nimovom mocojuh gisu imi hemsolpim lerino toktidut. Kafamu biwejguw cercor osugocdo ciftoine wafi onooj nerjobvo nut fu lenluhema kaceg fup. Duefu apetetad ta ej gopu soptubnu mevvawhow zo ki nos gilfuv hoorres. Ekceel op nubzo mudum soetecib ducje wiw gensarje fotiwili fuza juveh tuorcu meez etiam notewav."
+  },
+  "apiKey": "4ffb06e20fc3eb59ed5dc08b4e078c11b19dfd9e495207c10f2917c58db37652",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
