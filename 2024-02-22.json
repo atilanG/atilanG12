@@ -1,0 +1,26 @@
+{
+  "name": "Dustin Hale",
+  "age": 34,
+  "address": {
+    "street": "Hidar Ridge",
+    "city": "Karijgic",
+    "state": "LA",
+    "zip": "99532"
+  },
+  "contact": {
+    "phone": "(863) 477-8691",
+    "servicePhone": "800436272"
+  },
+  "birthday": "2005-07-02T02:16:07.051Z",
+  "ip": "230.159.8.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Zit bape dawbaes vajpotma amoha sifoow jakgesbum jodrempe razfej tajbavwuz moun sa vojsazwo kale. Nalomzuh dupwor fe niner kure hoz os hapudaho nu kuv zimnifko le uzvizheg midcelciz halbaz nuna tu tiow. Oj sojjisa dik zekru rozecdet nag zefdopbo ves kioso kiv vugu boki surreza. Lolwut vo ocecur li zoir owazampuz jikopop ejuirve tiw hofeni zegom ofnekewa juzwo efieva japiel acupvok lavajoofa. De vib rakpigle jubcor ohahtik acebovro re le ja sus iweni tafga di riwlag.",
+    "bio": "Muceji orisa gekduf ka wakoze ulesufvad jobaga vu abaladkap runrubuc fotaj lahibuar nik iwo haffunufe dev nuku fo. Do pafanfu de jamgavu jatca zatninuca vodfatab refej ed jasoma fauc wi inuwubug ti. Tokasi ovzeje jiblozcov jabij uj agomak tihvofpun hu vatpebep reoc sojih kessi suuh tobco kitif. Ridockal rumij ca ticet gekfonkuh dizco wudli ri sujpepep gojdumfar sobbokfod va elu ika wi bijurdoj. Rupi bewko bo ce imjaj vitcevur tenwov aj be temevaf evohoz sene buwu lac popiura. Umeuci im fa gi hugta perul sudzeg mosof wapinji tu zi ufututrug buizu toleha. Ugoh pon gosmog udpa ekumi ele ju leke lig si zi vivgos uwgi moluof."
+  },
+  "apiKey": "1f0af8988c5a4c5ca4e3d9048560007a015fe3c0f6dc1209f48e5a7738c34c4c",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
