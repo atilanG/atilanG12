@@ -1,0 +1,26 @@
+{
+  "name": "Rhoda Byrd",
+  "age": 28,
+  "address": {
+    "street": "Laduv Pass",
+    "city": "Jovcenepi",
+    "state": "HI",
+    "zip": "05742"
+  },
+  "contact": {
+    "phone": "(784) 551-3174",
+    "servicePhone": "800247222"
+  },
+  "birthday": "1983-06-10T11:29:45.836Z",
+  "ip": "74.59.53.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Ze asuaji awnul cilive zelonabek ni ik usebu ozedaj wur usaluace mezip oj tebowzo tor. Hiebuobu sagowma podinat hemub laba dercelu gumu jecuzcer us hisajof owmomoj ebaog. Eku cijeh ridejud nejgup kir ribgemo holam uptozpo wam hisapa na hohnapej.",
+    "bio": "Set ucu vumola ceipje vetsut oso nuz fipulvi zor tup pu olimak vos fecfufod. Jij na cap subwopuf afaf nikzuboj zupbojo puvlamku micbe ma ojnuvo izasazawo zupatmig kaerru hunu kapazu is. Ka iwira fat diwi bokijnud zet hecuburi bokatged difez jupuzlig dowda vo mecopo ebefodi tov."
+  },
+  "apiKey": "ecbb344403d2f41e55dfd7fa0d7360714f859bb889577e6067161515179e68a7",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
