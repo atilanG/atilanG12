@@ -1,0 +1,26 @@
+{
+  "name": "Frances Freeman",
+  "age": 25,
+  "address": {
+    "street": "Pogiga Heights",
+    "city": "Suvije",
+    "state": "LA",
+    "zip": "13382"
+  },
+  "contact": {
+    "phone": "(510) 865-2531",
+    "servicePhone": "800336668"
+  },
+  "birthday": "1991-12-28T07:47:26.796Z",
+  "ip": "194.15.52.72",
+  "foo": "bar",
+  "profile": {
+    "about": "Madvafe jadev takuv betezi sa egjil cuk ospe hug ufeju heftigawu rezsaozu belijgu opovurmaj wih tudusso eve zohbilhet. Mip rekniji wapjag cu goc ogujilwa lo vew leso ha sis hizaowi. Itadi sacir ikiru bu leziz lemvu banik haz mazdi gom ru ibejol. Nurezu bopzauce tolvud izmaek gusesfa fe vu onumih fegbacboz ne gised doop hisjovik gome. Tobwo met di jijkicte we fe ip tapad muvubez gohmih evpozemo gearu govlahtod foliznu cakha tile ajpa.",
+    "bio": "Voluso ezugene jic ek wocifete rel burwi mum fipvef tuz zowa ged ki baaceeca nidjufo udonih cabjub gif. Uzamob maba irwev doz vu hih ah dihle cuhju jana nih novne ohuirezil tu beosiohe cauwi. Ra zupuhe zah gos dugji wejuhso secisaso baw cicze hifi ta ebaaz fesa."
+  },
+  "apiKey": "fca99b00716aeef089a3933bb28d22aaaa1b6c578a77ae888ff8203ab7491054",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
