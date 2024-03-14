@@ -1,0 +1,26 @@
+{
+  "name": "Ian Drake",
+  "age": 56,
+  "address": {
+    "street": "Lugjas View",
+    "city": "Lobinve",
+    "state": "OH",
+    "zip": "95329"
+  },
+  "contact": {
+    "phone": "(438) 714-5947",
+    "servicePhone": "800229793"
+  },
+  "birthday": "1972-04-02T17:24:12.335Z",
+  "ip": "41.103.155.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Onobja bahlaz bozra uhocug wizuza fejkotovi univaj saarlu mokkuwe madow no biv gapgaj rogwukar vubzigjin gowuz. Wok ib vuc let ga kede eru odozet fuwbibka sojtej umaubhi vetebih zirmoceb vifujtug joksoto. Kahdo iroohi zowudmu gihawo somi parmasa edganzeb adtopu aki mufazi ufupi copdeuh otoilo fol.",
+    "bio": "Tokbu ak vifbet ju woalo juk bi veum gikhoh weavju du ratimi souv tunugreb. Wolomoj pait ma up momviczo teva gadneljo pu zupih vakok poj buwuki si pellugbif mesiv rod ciljiih. Surob gervur taz sit ci nebac zovbirpa ra pik suujeube jakdatja fo beb suow hikvi. Wolsat gezpe mufcippo us guunu pizfaghos ire viruab jed heralok tuco ibcorov perjub zucukezig arwolim."
+  },
+  "apiKey": "4f5465d8001878bfb10ca2aa999b1dc6887bc399027507fe51ac9f1aa10a5d2e",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
