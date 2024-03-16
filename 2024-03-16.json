@@ -1,0 +1,26 @@
+{
+  "name": "Kenneth Wong",
+  "age": 23,
+  "address": {
+    "street": "Bivne Way",
+    "city": "Kawufso",
+    "state": "ME",
+    "zip": "99401"
+  },
+  "contact": {
+    "phone": "(632) 644-5183",
+    "servicePhone": "800278863"
+  },
+  "birthday": "1994-11-02T08:05:18.470Z",
+  "ip": "119.208.41.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Li keniw demat tozjor kejziji kewocado menfeswa meg men rapvikuvo dobjiidi tiboes wewjuhra aka cig. Lokzobfob wegkew vas amoenaku susba tibucuk ipi tigeh ho nup ziruwij pehsuden asava wif. Tow ev daipuwan je wan ivuiziif uma fire je kefco ersuztet dupaluros ne debid gu. Li ag ocsovle zi paz ha dadguckoz fonwifvid bujuhka efu zurniw zewuwce can umo pokvuwjab lop dilni. Ce dobem ewhiho no kufurjog modce ec im kovejohit tevaksul cilivon bi. Oguonow tu fij fevta hug dod hefan uromazhi pehe neofu bo ke duzdaf. Fem nokujo utbe zo be ighoz sake ce fivnosehe po hote diho.",
+    "bio": "Pah dehi ralko uficuzuv ibafotug jer gi ifco homanamo upupil pi to oz. Bacta giumopec gu wam unigib overiwe ihoaw miihita oriso gacavlib fu du gonuvuv sivu mazihra. Loj jazloake juf dov ida keze ak ilofoz wogbehpid be ew kuwudatid logpopwen ruocu ro numsit logjufop."
+  },
+  "apiKey": "c0c989059caca32a1d506c5e6e03b3f04140f91165f8a6d7ca3d0906b7755971",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
