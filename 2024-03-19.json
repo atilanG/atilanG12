@@ -1,0 +1,26 @@
+{
+  "name": "Samuel George",
+  "age": 30,
+  "address": {
+    "street": "Cozet Ridge",
+    "city": "Mimpajez",
+    "state": "KS",
+    "zip": "39927"
+  },
+  "contact": {
+    "phone": "(400) 685-6318",
+    "servicePhone": "800497144"
+  },
+  "birthday": "1969-04-13T18:00:38.674Z",
+  "ip": "114.119.62.24",
+  "foo": "bar",
+  "profile": {
+    "about": "Ve rooza vilzebo bocebo zuke vatid fikekab ahpacmoh otu wuh bigamuvov jonigaduz lur. Si lagsur ir dujnetle si ujeloh lurefo ozvej gouta suhif wezlozhor iwojo dehcipzo ijababsi utohi. Fojuw ronen kibcif adepug nap vepijuc isa zordejbig socab kahe zulfuh bucgonas si kac wemazuw wi bojace lo. Ze kodogih mopcuw videhike ekurde gesjatziw piho us melbapeki iritev sozepes ejsa lel olageggag kauz awrutoh sababi.",
+    "bio": "Locarizug fuh ano fun zirohnig ruf jihe mah peco kivlul todkehe rin izhu zunavmes uhiteoh. Ciwli pa fu um baho zaruwion zalid ceohji de os bacdove lo. Mow ji ole peducse ku puzriiz zueji mocila locovhul ji da zic luzci re kefjesras mohiito rogsof pew."
+  },
+  "apiKey": "7f627ad8823b6c498f112f11a6e8318a4401a8e42a3b89dc6728b961dedf4ab9",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
