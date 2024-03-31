@@ -1,0 +1,26 @@
+{
+  "name": "Edgar Carter",
+  "age": 26,
+  "address": {
+    "street": "Geveri Parkway",
+    "city": "Najfibo",
+    "state": "MD",
+    "zip": "41617"
+  },
+  "contact": {
+    "phone": "(431) 457-5596",
+    "servicePhone": "800549972"
+  },
+  "birthday": "1981-07-28T04:33:07.226Z",
+  "ip": "27.70.193.222",
+  "foo": "bar",
+  "profile": {
+    "about": "Roca fepwuttic le uciv row duzitho izgoh suvag urji los ronazni lo. Limutda razev jo necritew corose vit oz runinu asepibi wa bo jekugil hinit awvo ulapa ug. Foz tolbe ku mif tuzet cetnibi ezicic sekag nep fettok dotam vuve gaeku puapi dad. Ukogi pawob resada enujir ez ujihanni cipam oso rav ena zos hesud kumeaf ritefir budhivi dijar isoweg. Resifejo efahoizu gis wamti fez nu go foji fel fot opu cic murmih vuzni ruhe muhju. Siriaci zijubwas rin tave vun romfoka cuvcipoca paswa mej toscuv jud cofwa ho ilili hapusfa. Toghalki he po jarobi po ruduz mar um hihzu mintisve odkuc fi rociori lapol omaro huk kivu.",
+    "bio": "Riacojip zu sunowe gezer ne ka bi ov ezusipo tuhro um hal lowta omiincew cejabvi rebjaccu. Cew juc awnak wugdivli uj mun hera sizlo huga ame wozigabe zuc ca. Gi namzice mebjipa winwut nu majko ibemosufu walowgis lijrod ti aghof bem."
+  },
+  "apiKey": "d82a9c1fccda4746c8f40f46603c8e1cf1058377cb26a1a3c0333d23f934c0c3",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
